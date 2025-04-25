@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TypeScript HTML App</title>
+
+  <link rel="stylesheet" type="text/css" href="../css/main.css">
+
+  <!-- Live2DCubismCore script -->
+  <script src="./Core/live2dcubismcore.js"></script>
+  <!-- Build script -->
+  <script type="module" crossorigin src="./assets/index-ZEVlTdc2.js"></script>
+  <script src="../js/live2d.js"></script>
+</head>
+<body>
+  <div class="character-chat-wrapper">
+    <canvas id="live2dcanvas"></canvas>
+    <!-- 聊天气泡容器 -->
+    <div class="chat-container" id="chatContainer">
+      <!-- 消息区域 -->
+      <div class="messages" id="messages">
+        <!-- 默认角色消息 -->
+        <div class="chat-message role">
+          <div class="bubble">嘻嘻~你好呀，我是你的小助手！有什么想聊的吗？（眨眼）</div>
+        </div>
+      </div>
+      <!-- 输入框区域 -->
+      <div class="input-container">
+        <input type="text" id="userInput" placeholder="输入消息...">
+        <button onclick="sendMessage()">发送</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="../js/chat.js"></script>
+</body>
+
+</html>

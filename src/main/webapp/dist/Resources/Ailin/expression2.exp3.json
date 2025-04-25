@@ -1,0 +1,152 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0,
+	"FadeOutTime": 0,
+	"Parameters": [
+		{
+			"Id": "PARAM_EYE_BALL_FORM",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_EYE_BALL_Y",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_EYE_CHANGE1",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_EYE_BALL_CHANGE",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_EYE_BALL_SHINE",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_EYE_CHANGE2",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_BROW_L_Y",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_BROW_R_Y",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_BROW_L_X",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_BROW_R_X",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_BROW_L_ANGLE",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_BROW_R_ANGLE",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_BROW_L_FORM",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_BROW_R_FORM",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_MOUTH_OPEN",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_MOUTH_SPECIAL",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_MOUTH_SIZE",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_MOUTH_X",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_MOUTH_Y",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_TERE",
+			"Value": -0.6,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_XIU",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_HAN",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_WATER",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_HEI",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_HEIYANQUAN",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_FAT",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_HEIXIAN",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_BAOHAN",
+			"Value": 0,
+			"Blend": "Overwrite"
+		},
+		{
+			"Id": "PARAM_EYE_BALL_X",
+			"Value": 0,
+			"Blend": "Overwrite"
+		}
+	]
+}
